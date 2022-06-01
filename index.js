@@ -3,9 +3,9 @@
 // .innerHTML to solve the challenge.
 
 const imgs = [
-    "images/hip1.jpg",
-    "images/hip2.jpg",
-    "images/hip3.jpg"
+    "hip1.jpg",
+    "hip2.jpg",
+    "hip3.jpg"
 ]
 
 const container = document.getElementById("container")
